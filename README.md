@@ -56,8 +56,6 @@ _Opportunities in the application for administrator:_
 9. Extra bonus: To-do list for every day, and saved to your
    local computer
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Installation
 
 _Install NPM packages_
@@ -82,8 +80,6 @@ _Run frontend app:_
 
 npm run start
 ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## User model
 
