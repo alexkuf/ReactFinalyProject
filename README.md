@@ -15,13 +15,14 @@
 ## About The Project
 
 This is a closed application intended for small companies. Only
-company employees have the opportunity to enter the application
+company employees have the opportunity to enter the application.
+Only administrator can add users.
 
 ### Built With
 
 [![React][React.js]][React-url] [![Node][Node.js]][Node-url] [![MongoDB][MongoDB]][MongoDB-url] [![Express][Express.js]][Express-url] [![Bcrypt][Bcrypt.js]][Bcrypt-url] [![JWT][JWT]][JWT-url] [![joi][joi]][joi-url] [![Morgan][Morgan]][Morgan-url]
 [![Mongoose][Mongoose.js]][Mongoose-url] [![Axios][Axios]][Axios-url] [![Cors][Cors]][Cors-url] [![Bootstrap][Bootstrap]][Bootstrap-url]
-[![Excel][Excel]][Excel-url] [![Dotenv][Dotenv]][Dotenv-url]
+[![Excel][Excel]][Excel-url] [![Dotenv][Dotenv]][Dotenv-url] [![regexp][regexp]][regexp-url] [![ReactToastify][ReactToastify]][ReactToastify-url]
 
 <!-- GETTING STARTED -->
 
@@ -106,5 +107,9 @@ npm run dev
 [Bootstrap-url]: https://getbootstrap.com/
 [Excel]: https://img.shields.io/badge/Excel(xlsx)-44cc11?style=for-the-badge&logo=Excel(xlsx)&logoColor=green
 [Excel-url]: https://www.npmjs.com/package/xlsx
-[Dotenv]: https://img.shields.io/badge/.env-ecd53f?style=for-the-badge&logo=.inv&logoColor=white
+[Dotenv]: https://img.shields.io/badge/.env-ecd53f?style=for-the-badge&logo=.env&logoColor=white
 [Dotenv-url]: https://www.npmjs.com/package/dotenv
+[regexp]: https://img.shields.io/badge/RegExP(.*)-e75223?style=for-the-badge&logo=RegExP(.*)&logoColor=green
+[regexp-url]: https://www.npmjs.com/package/regexp
+[ReactToastify]: https://img.shields.io/badge/React-Toastify-ecd53f?style=for-the-badge&logo=React-Toastify&logoColor=white
+[ReactToastify-url]: https://www.npmjs.com/package/react-toastify
