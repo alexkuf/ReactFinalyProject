@@ -323,5 +323,5 @@ title: {
 [Axios-url]: https://www.axios.com/
 [Cors]: https://img.shields.io/badge/Cors-0769AD?style=for-the-badge&logo=cors&logoColor=white
 [Cors-url]: https://www.npmjs.com/package/cors
-[Excel]: https://img.shields.io/badge/Excel-0769AD?style=for-the-badge&logo=Excel&logoColor=green
+[Excel]: https://img.shields.io/badge/Excel-20232A?style=for-the-badge&logo=Excel&logoColor=green
 [Excel-url]: https://www.npmjs.com/package/xlsx
