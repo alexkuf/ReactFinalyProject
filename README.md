@@ -319,7 +319,7 @@ title: {
 [Morgan-url]: https://coralogix.com/
 [Mongoose.js]: https://img.shields.io/badge/Mongoose-0769AD?style=for-the-badge&logo=mongoose&logoColor=white
 [Mongoose-url]: https://mongoosejs.com/
-[Axios]: https://img.shields.io/badge/Chalk-8A2BE2?style=for-the-badge&logo=chalk&logoColor=white
+[Axios]: https://img.shields.io/badge/Axios-8A2BE2?style=for-the-badge&logo=Axios&logoColor=white
 [Axios-url]: https://www.axios.com/
 [Cors]: https://img.shields.io/badge/Cors-0769AD?style=for-the-badge&logo=cors&logoColor=white
 [Cors-url]: https://www.npmjs.com/package/cors
