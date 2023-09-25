@@ -98,5 +98,5 @@ npm run dev
 [Dotenv-url]: https://www.npmjs.com/package/dotenv
 [regexp]: https://img.shields.io/badge/RegExP(.*)-e75223?style=for-the-badge&logo=RegExP(.*)&logoColor=green
 [regexp-url]: https://www.npmjs.com/package/regexp
-[ReactToastify]: https://img.shields.io/badge/React-Toastify-000000?style=for-the-badge&logo=React-Toastify&logoColor=e75223
+[ReactToastify]: https://img.shields.io/badge/React-(Toastify)-e75223?style=for-the-badge&logo=React-(Toastify)&logoColor=e75223
 [ReactToastify-url]: https://www.npmjs.com/package/react-toastify
