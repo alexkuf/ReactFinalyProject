@@ -22,9 +22,34 @@ Only administrator can add users.
 
 [![React][React.js]][React-url] [![Node][Node.js]][Node-url] [![MongoDB][MongoDB]][MongoDB-url] [![Express][Express.js]][Express-url] [![Bcrypt][Bcrypt.js]][Bcrypt-url] [![JWT][JWT]][JWT-url] [![joi][joi]][joi-url] [![Morgan][Morgan]][Morgan-url]
 [![Mongoose][Mongoose.js]][Mongoose-url] [![Axios][Axios]][Axios-url] [![Cors][Cors]][Cors-url] [![Bootstrap][Bootstrap]][Bootstrap-url]
-[![Excel][Excel]][Excel-url] [![Dotenv][Dotenv]][Dotenv-url] [![regexp][regexp]][regexp-url] [![ReactToastify][ReactToastify]][ReactToastify-url]
+[![Excel][Excel]][Excel-url] [![Dotenv][Dotenv]][Dotenv-url] [![regexp][regexp]][regexp-url] [![ReactToastify][ReactToastify]][ReactToastify-url] [![ReactSwitch][ReactSwitch]][ReactSwitch-url]
 
 <!-- GETTING STARTED -->
+
+### More info
+
+_Opportunities in the application for users:_
+
+1. Create projects (Options to get started project)
+2. Delete projects
+3. Edit projects (Only time)
+4. Search by project
+5. Separate page for your projects
+6. Extra bonus: To-do list for every day, and saved to your
+   local computer
+
+_Opportunities in the application for administrator:_
+
+1. Create projects (Options to get started project)
+2. Delete projects
+3. Edit projects
+4. Create user
+5. Delete user
+6. Edit user
+7. Change password
+8. Create and save reports in Excel file
+9. Extra bonus: To-do list for every day, and saved to your
+   local computer
 
 ### Installation
 
@@ -45,8 +70,6 @@ _Run dev server:_
 ```sh
 npm run dev
 ```
-
-### More info
 
 ## User end point
 
@@ -100,3 +123,5 @@ npm run dev
 [regexp-url]: https://www.npmjs.com/package/regexp
 [ReactToastify]: https://img.shields.io/badge/React-(Toastify)-e75223?style=for-the-badge&logo=React-(Toastify)&logoColor=e75223
 [ReactToastify-url]: https://www.npmjs.com/package/react-toastify
+[ReactSwitch]: https://img.shields.io/badge/React-(switch)-0769AD?style=for-the-badge&logo=React-(switch)&logoColor=0769AD
+[ReactSwitch-url]: https://www.npmjs.com/package/react-switch
