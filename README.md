@@ -31,7 +31,7 @@ Only administrator can add users.
 _Opportunities in the application for users:_
 
 1. Create projects (Options to get started project)
-2. Delete projects
+2. Delete projects (Only your projects)
 3. Edit projects (Only time)
 4. Search by project
 5. Separate page for your projects
@@ -41,12 +41,12 @@ _Opportunities in the application for users:_
 _Opportunities in the application for administrator:_
 
 1. Create projects (Options to get started project)
-2. Delete projects
-3. Edit projects
+2. Delete projects (Only your projects)
+3. Edit projects (Only time)
 4. Create user
 5. Delete user
 6. Edit user
-7. Change password
+7. Change user password
 8. Create and save reports in Excel file
 9. Extra bonus: To-do list for every day, and saved to your
    local computer
