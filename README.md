@@ -59,11 +59,14 @@ _Opportunities in the application for administrator:_
 
 _Install NPM packages_
 
-1.
-
-```sh
-  npm install
-```
+1. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
 
 ## Starting
 
