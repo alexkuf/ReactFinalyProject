@@ -65,15 +65,11 @@ _Install NPM packages_
 
 _Run dev server:_
 
-1.
-
 ```sh
 npm run dev
 ```
 
 _Run frontend app:_
-
-1.
 
 ```sh
 npm run start
