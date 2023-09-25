@@ -17,7 +17,7 @@ company employees have the opportunity to enter the application
 
 ### Built With
 
-[![React][React.js]][React-url][![Node][Node.js]][Node-url] [![MongoDB][MongoDB]][MongoDB-url] [![Express][Express.js]][Express-url] [![Bcrypt][Bcrypt.js]][Bcrypt-url] [![JWT][JWT]][JWT-url] [![joi][joi]][joi-url] [![Morgan][Morgan]][Morgan-url]
+[![React][React.js]][React-url] [![Node][Node.js]][Node-url] [![MongoDB][MongoDB]][MongoDB-url] [![Express][Express.js]][Express-url] [![Bcrypt][Bcrypt.js]][Bcrypt-url] [![JWT][JWT]][JWT-url] [![joi][joi]][joi-url] [![Morgan][Morgan]][Morgan-url]
 [![Mongoose][Mongoose.js]][Mongoose-url] [![Chalk][Chalk]][Chalk-url] [![Cors][Cors]][Cors-url]
 
 <!-- GETTING STARTED -->
