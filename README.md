@@ -36,7 +36,7 @@ _Opportunities in the application for users:_
 
 - [x] Create projects (Options to get started project)
 - [x] Delete projects (Only your projects)
-- [x] Edit projects (Only time) <li><a href=<i class="bi bi-pencil-fill"></i>>Usage</a></li>
+- [x] Edit projects (Only time)
 - [x] Search by project
 - [x] Separate page for your projects
 - [x] Extra bonus: To-do list for every day, and saved to your
