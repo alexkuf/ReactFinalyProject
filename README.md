@@ -7,7 +7,7 @@
 
   <h3 align="center">Fenestra Project Manager</h3>
 
-![about1](https://github.com/alexkuf/reactFinalyProject/assets/111445523/628654b6-9a1b-4e46-a5c8-156d5c266e63)
+![about1](https://github.com/alexkuf/reactFinalyProject/assets/111445523/a4ea90de-1121-4d42-9485-156fd04aa9fe)
 
 <a 
 href="https://animated-halva-f26411.netlify.app/">View Demo</a>
