@@ -10,7 +10,7 @@
 ![about1](https://github.com/alexkuf/reactFinalyProject/assets/111445523/a4ea90de-1121-4d42-9485-156fd04aa9fe)
 
 <a 
-href="https://animated-halva-f26411.netlify.app/">View Demo</a>
+href="https://animated-halva-f26411.netlify.app/">View Demo website without server</a>
 
 </div>
 <!-- ABOUT THE PROJECT -->
@@ -31,6 +31,7 @@ Only administrator can add users.
 
 ### More info
 
+```
 _Opportunities in the application for users:_
 
 1. Create projects (Options to get started project)
@@ -53,6 +54,8 @@ _Opportunities in the application for administrator:_
 8. Create and save reports in Excel file
 9. Extra bonus: To-do list for every day, and saved to your
    local computer
+
+```
 
 ### Installation
 
@@ -78,21 +81,101 @@ _Run frontend app:_
 npm run start
 ```
 
-## User end point
-
 ## User model
 
 ```
-
-```
-
-## Card end point
-
-## Card model
-
-```
-
+const userSchema = new mongoose.Schema({
+  name: {
+    type: String,
+    required: true,
+    minlength: 2,
+    maxlength: 255,
+  },
+  email: {
+    type: String,
+    required: true,
+    minlength: 6,
+    maxlength: 255,
+    unique: true,
+  },
+  password: {
+    type: String,
+    required: true,
+    minlength: 6,
+    maxlength: 1024,
+  },
+  isAdmin: {
+    type: Boolean,
+    required: true,
+  },
+  createdAt: { type: Date, default: Date.now },
+  cards: Array,
 });
+```
+
+## Project model
+
+```
+const cardSchema = new mongoose.Schema({
+  projectName: {
+    type: String,
+    required: true,
+    minlength: 2,
+    maxlength: 255,
+  },
+  employeeName: {
+    type: String,
+    required: true,
+    minlength: 2,
+    maxlength: 1024,
+  },
+  createAt: {
+    type: String,
+    required: true,
+  },
+  startTime: {
+    type: String,
+    required: true,
+    minlength: 2,
+    maxlength: 255,
+  },
+  stopTime: {
+    type: String,
+    required: true,
+    minlength: 2,
+    maxlength: 255,
+  },
+  actions: {
+    type: String,
+    required: true,
+    minlength: 2,
+    maxlength: 255,
+  },
+  revision: {
+    type: String,
+    required: true,
+    minlength: 2,
+    maxlength: 255,
+  },
+
+  user_id: { type: mongoose.Schema.Types.ObjectId, ref: "User" },
+});
+```
+
+## Progect name model
+
+```
+const projectnameSchema = new mongoose.Schema({
+  name: {
+    type: String,
+    required: true,
+    minlength: 2,
+    maxlength: 255,
+  },
+
+  user_id: { type: mongoose.Schema.Types.ObjectId, ref: "User" },
+});
+
 ```
 
 <!-- MARKDOWN LINKS & IMAGES -->
