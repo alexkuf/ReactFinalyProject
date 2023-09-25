@@ -44,16 +44,16 @@ _Opportunities in the application for users:_
 
 _Opportunities in the application for administrator:_
 
-1. Create projects (Options to get started project)
-2. Delete projects (Only your projects)
-3. Edit projects (Only time)
-4. Create user
-5. Delete user
-6. Edit user
-7. Change user password
-8. Create and save reports in Excel file
-9. Extra bonus: To-do list for every day, and saved to your
-   local computer
+- [x] Create projects (Options to get started project)
+- [x] Delete projects (Only your projects)
+- [x] Edit projects (Only time)
+- [x] Create user
+- [x] Delete user
+- [x] Edit user
+- [x] Change user password
+- [x] Create and save reports in Excel file
+- [x] Extra bonus: To-do list for every day, and saved to your
+      local computer
 
 ## Installation
 
