@@ -305,7 +305,7 @@ title: {
 [React-url]: https://reactjs.org/
 [Node.js]: https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Node-url]: https://nodejs.org/
-[MongoDB]: https://img.shields.io/badge/mongoDB/Atlas-20232A?style=for-the-badge&logo=mongoDB&logoColor=green
+[MongoDB]: https://img.shields.io/badge/mongoDB/Atlas-44cc11?style=for-the-badge&logo=mongoDB&logoColor=green
 [MongoDB-url]: https://www.mongodb.com/
 [Express.js]: https://img.shields.io/badge/Express.js-35495E?style=for-the-badge&logo=expressjs&logoColor=4FC08D
 [Express-url]: https://expressjs.com/
