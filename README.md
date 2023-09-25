@@ -1,10 +1,9 @@
 <a name="readme-top"></a>
 
-## Fenestra
+## Finaly project HackerU (React)
 
 <div align="center">
   <a href=""https://github.com/alexkuf/reactFinalyProject/assets/111445523/15e6980d-55e5-4587-b10d-7e43965f66f8">
-  
   </a>
 
   <h3 align="center">Fenestra Project Manager</h3>
