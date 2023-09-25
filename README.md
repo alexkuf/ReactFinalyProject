@@ -34,13 +34,13 @@ Only administrator can add users.
 
 _Opportunities in the application for users:_
 
-1. Create projects (Options to get started project)
-2. Delete projects (Only your projects)
-3. Edit projects (Only time)
-4. Search by project
-5. Separate page for your projects
-6. Extra bonus: To-do list for every day, and saved to your
-   local computer
+- [x] Create projects (Options to get started project)
+- [x] Delete projects (Only your projects)
+- [x] Edit projects (Only time)
+- [x] Search by project
+- [x] Separate page for your projects
+- [x] Extra bonus: To-do list for every day, and saved to your
+      local computer
 
 _Opportunities in the application for administrator:_
 
