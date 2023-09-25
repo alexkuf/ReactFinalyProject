@@ -74,8 +74,6 @@ _Install NPM packages_
    npm install
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Starting
 
 _Run dev server:_
