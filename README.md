@@ -1,4 +1,8 @@
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+
 <a name="readme-top"></a>
+
+<!---->
 
 ## Finaly project HackerU (React)
 
@@ -10,7 +14,7 @@
 
 ![about1](https://github.com/alexkuf/reactFinalyProject/assets/111445523/a4ea90de-1121-4d42-9485-156fd04aa9fe)
 
-<a 
+<a
 href="https://animated-halva-f26411.netlify.app/">View Demo website without server</a>
 
 </div>
@@ -115,6 +119,8 @@ const userSchema = new mongoose.Schema({
 });
 ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Project model
 
 ```
@@ -163,6 +169,8 @@ const cardSchema = new mongoose.Schema({
   user_id: { type: mongoose.Schema.Types.ObjectId, ref: "User" },
 });
 ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Progect name model
 
