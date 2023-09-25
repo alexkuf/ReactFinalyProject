@@ -1,4 +1,5 @@
 <a name="readme-top"></a>
+
 ## Fenestra
 
 <div align="center">
@@ -55,6 +56,7 @@ _Opportunities in the application for administrator:_
 9. Extra bonus: To-do list for every day, and saved to your
    local computer
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## Installation
 
 _Install NPM packages_
@@ -76,9 +78,11 @@ npm run dev
 _Run frontend app:_
 
 ```sh
+
 npm run start
 ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## User model
 
 ```
@@ -175,6 +179,7 @@ const projectnameSchema = new mongoose.Schema({
 });
 
 ```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
