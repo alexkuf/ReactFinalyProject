@@ -22,7 +22,7 @@ Only administrator can add users.
 
 [![React][React.js]][React-url] [![Node][Node.js]][Node-url] [![MongoDB][MongoDB]][MongoDB-url] [![Express][Express.js]][Express-url] [![Bcrypt][Bcrypt.js]][Bcrypt-url] [![JWT][JWT]][JWT-url] [![joi][joi]][joi-url] [![Morgan][Morgan]][Morgan-url]
 [![Mongoose][Mongoose.js]][Mongoose-url] [![Axios][Axios]][Axios-url] [![Cors][Cors]][Cors-url] [![Bootstrap][Bootstrap]][Bootstrap-url]
-[![Excel][Excel]][Excel-url] [![Dotenv][Dotenv]][Dotenv-url] [![regexp][regexp]][regexp-url] [![ReactToastify][ReactToastify]][ReactToastify-url]
+[![Excel][Excel]][Excel-url] [![Dotenv][Dotenv]][Dotenv-url] [![regexp][regexp]][regexp-url]  [![ReactToastify][ReactToastify]][ReactToastify-url]
 
 <!-- GETTING STARTED -->
 
