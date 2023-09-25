@@ -29,9 +29,8 @@ Only administrator can add users.
 
 <!-- GETTING STARTED -->
 
-### More info
+## More info
 
-```
 _Opportunities in the application for users:_
 
 1. Create projects (Options to get started project)
@@ -55,9 +54,7 @@ _Opportunities in the application for administrator:_
 9. Extra bonus: To-do list for every day, and saved to your
    local computer
 
-```
-
-### Installation
+## Installation
 
 _Install NPM packages_
 
@@ -67,7 +64,7 @@ _Install NPM packages_
   npm install
 ```
 
-### Starting
+## Starting
 
 _Run dev server:_
 
