@@ -71,6 +71,14 @@ _Run dev server:_
 npm run dev
 ```
 
+_Run frontend app:_
+
+1.
+
+```sh
+npm run start
+```
+
 ## User end point
 
 ## User model
