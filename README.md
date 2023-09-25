@@ -59,8 +59,6 @@ _Opportunities in the application for administrator:_
 - [x] Extra bonus: To-do list for every day, and saved to your
       local computer
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Installation
 
 _Install NPM packages_
@@ -88,8 +86,6 @@ _Run frontend app:_
 
 npm run start
 ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## User model
 
@@ -122,8 +118,6 @@ const userSchema = new mongoose.Schema({
   cards: Array,
 });
 ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project model
 
@@ -174,8 +168,6 @@ const cardSchema = new mongoose.Schema({
 });
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Progect name model
 
 ```
@@ -191,6 +183,12 @@ const projectnameSchema = new mongoose.Schema({
 });
 
 ```
+
+## Contact
+
+Alex Karavansky - [@my_Linkdin](https://www.linkedin.com/feed/) - alexkuf1978@outlook.com
+
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
