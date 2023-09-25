@@ -7,6 +7,7 @@
 
   <h3 align="center">Fenestra Project Manager</h3>
 
+![about1](https://github.com/alexkuf/reactFinalyProject/assets/111445523/628654b6-9a1b-4e46-a5c8-156d5c266e63)
 
 </div>
 <!-- ABOUT THE PROJECT -->
