@@ -99,7 +99,7 @@ List resources.
 
 ## Contact
 
-Alex Karavansky - [@my_Linkdin](https://www.linkedin.com/feed/) - alexkuf1978@outlook.com
+Alex Karavansky - [@my_Linkdin](https://www.linkedin.com/in/alex-karavansky-8ba840220/) - alexkuf1978@outlook.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
