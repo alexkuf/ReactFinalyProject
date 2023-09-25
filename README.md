@@ -101,7 +101,7 @@ List resources.
 
 Alex Karavansky - [@my_Linkdin](https://www.linkedin.com/in/alex-karavansky-8ba840220/) - alexkuf1978@outlook.com
 
-Project Link: [https://github.com/alexkuf/reactFinalyProject/blob/main/README.md)
+Project Link: https://github.com/alexkuf/reactFinalyProject
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
