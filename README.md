@@ -20,7 +20,7 @@ company employees have the opportunity to enter the application
 ### Built With
 
 [![React][React.js]][React-url] [![Node][Node.js]][Node-url] [![MongoDB][MongoDB]][MongoDB-url] [![Express][Express.js]][Express-url] [![Bcrypt][Bcrypt.js]][Bcrypt-url] [![JWT][JWT]][JWT-url] [![joi][joi]][joi-url] [![Morgan][Morgan]][Morgan-url]
-[![Mongoose][Mongoose.js]][Mongoose-url] [![Axios][Axios]][Axios-url] [![Cors][Cors]][Cors-url]
+[![Mongoose][Mongoose.js]][Mongoose-url] [![Axios][Axios]][Axios-url] [![Cors][Cors]][Cors-url] [![Excel][Excel]][Excel-url]
 
 <!-- GETTING STARTED -->
 
@@ -323,3 +323,5 @@ title: {
 [Axios-url]: https://www.axios.com/
 [Cors]: https://img.shields.io/badge/Cors-0769AD?style=for-the-badge&logo=cors&logoColor=white
 [Cors-url]: https://www.npmjs.com/package/cors
+[Excel]: https://img.shields.io/badge/Excel-0769AD?style=for-the-badge&logo=Excel&logoColor=green
+[Excel-url]: https://www.npmjs.com/package/xlsx
