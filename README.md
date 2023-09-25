@@ -87,6 +87,16 @@ _Run frontend app:_
 npm run start
 ```
 
+## Acknowledgments
+
+List resources.
+
+- [HacerU](https://www.hackeru.co.il/)
+- [React](https://react.dev/)
+- [GitHub Pages](https://pages.github.com)
+- [Bootstrap](https://getbootstrap.com/)
+- [Bootstrap Icons](https://icons.getbootstrap.com/)
+
 ## Contact
 
 Alex Karavansky - [@my_Linkdin](https://www.linkedin.com/feed/) - alexkuf1978@outlook.com
