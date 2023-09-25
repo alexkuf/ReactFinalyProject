@@ -9,6 +9,9 @@
 
 ![about1](https://github.com/alexkuf/reactFinalyProject/assets/111445523/628654b6-9a1b-4e46-a5c8-156d5c266e63)
 
+<a 
+href="https://animated-halva-f26411.netlify.app/">View Demo</a>
+
 </div>
 <!-- ABOUT THE PROJECT -->
 
