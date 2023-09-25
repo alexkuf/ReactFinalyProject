@@ -36,7 +36,7 @@ _Opportunities in the application for users:_
 
 - [x] Create projects (Options to get started project)
 - [x] Delete projects (Only your projects)
-- [x] Edit projects (Only time)
+- [x] Edit projects (Only time) (<i className="bi bi-pencil-fill"></i>)
 - [x] Search by project
 - [x] Separate page for your projects
 - [x] Extra bonus: To-do list for every day, and saved to your
@@ -49,7 +49,7 @@ _Opportunities in the application for administrator:_
 - [x] Edit projects (Only time)
 - [x] Create user
 - [x] Delete user
-- [x] Edit user
+- [x] Edit user (name, email, administrator(add, remove))
 - [x] Change user password
 - [x] Create and save reports in Excel file
 - [x] Extra bonus: To-do list for every day, and saved to your
